@@ -3,7 +3,7 @@ package beans;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 import javax.faces.context.FacesContext;
-import javax.servlet.http.HttpSession;
+import javax.servlet.http.*;
 
 import model.Noticia;
 import model.Usuario;
